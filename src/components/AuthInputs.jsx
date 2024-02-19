@@ -10,6 +10,7 @@ export default function AuthInputs() {
       setEnteredEmail(value);
     } else {
       setEnteredPassword(value);
+      
     }
   }
 
